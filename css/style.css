@@ -1,5 +1,5 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Emre Guzel
+* Created on: Feb 17 2025
 * This file contains the CSS for index.html
 */
 
@@ -52,4 +52,12 @@ img {
   text-decoration: none;
   font-size: 1.5rem;
 
+}
+
+a {
+  margin-right: 10%;
+  line-height: 2rem;
+  color: #efffaf;
+  text-decoration: none;
+  font-size: 1.5rem;
 }
