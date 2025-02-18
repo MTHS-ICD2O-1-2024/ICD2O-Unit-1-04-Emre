@@ -2,3 +2,54 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+html {
+  font-size: 15px;
+}
+
+.setting {
+  background-color: black;
+  font-family: "Atkinson Hyperlegible Next", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  text-align: center;
+}
+
+#Style {
+  color: white;
+  font-size: 2rem;
+  background-color: white;
+  color: black;
+  width: 30%;
+  margin-left: 30%;
+  padding: .8rem;
+  font-weight: 600;
+  font-style: bold;
+}
+
+#Proper {
+  color: black;
+  font-size: 2rem;
+  background-color: dodgerblue;
+  width: 48%;
+  margin-left: 23%;
+  padding: .8rem;
+  font-weight: 600;
+  font-style: bold;
+}
+
+img {
+  border-radius: 15%;
+  border-style: double;
+  margin-right: 10%;
+}
+
+#cites {
+  margin-right: 10%;
+  line-height: 2rem;
+  color: #efffaf;
+  text-decoration: none;
+  font-size: 1.5rem;
+
+}
